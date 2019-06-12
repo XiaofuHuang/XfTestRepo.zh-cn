@@ -1,14 +1,14 @@
 ### YamlMime:Certification
-title: Mock Certification 3 Fundamentals
+title: 中文 Mock Certification 3 Fundamentals
 metadata:
-  title: Mock Certification 3 Fundamentals
-  description: Certification One - page description
+  title: 中文 Mock Certification 3 Fundamentals
+  description: 中文 Certification One - page description
 uid: certification.mock-certification-3
 badgeUrl: ./assets/CertificationFundamentals.svg
 iconUrl: ./assets/CertificationFundamentals.svg
 summary: |
-  Azure DevOps professionals combine people, process, and technologies to continuously deliver valuable products and services that meet end user needs and business objectives.
-cardDescription: This is the description that will show up on the Browse card. Make it short. If it's ommitted the summary will be used in it's place.
+  中文 Azure DevOps professionals combine people, process, and technologies to continuously deliver valuable products and services that meet end user needs and business objectives.
+cardDescription: 中文 This is the description that will show up on the Browse card. Make it short. If it's ommitted the summary will be used in it's place.
 levels:
 - beginner
 skills:
