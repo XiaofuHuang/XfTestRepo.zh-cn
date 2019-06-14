@@ -1,15 +1,15 @@
 ### YamlMime:Certification
-title: 中文 Mock sample Certification 1 Associate
+title: Update  中文 Mock sample Certification 1 Associate
 metadata:
-  title: 中文 Mock sample Certification 1 Associate
-  description: 中文 Sample Certification One - page description
+  title: Update  中文 Mock sample Certification 1 Associate
+  description: Update  中文 Sample Certification One - page description
   ms.date: 03/12/2001
 uid: certification.mock-certification-1
 badgeUrl: ./assets/CertificationAssociate.svg
 iconUrl: ./assets/CertificationAssociate.svg
 summary: |
-  中文 Sample one Azure DevOps professionals combine people, process, and technologies to continuously deliver valuable products and services that meet end user needs and business objectives.
-cardDescription: 中文 Description one. This is the sample description that will show up on the Browse card. Make it short. If it's ommitted the summary will be used in it's place.
+  Update  中文 Sample one Azure DevOps professionals combine people, process, and technologies to continuously deliver valuable products and services that meet end user needs and business objectives.
+cardDescription: Update  中文 Description one. This is the sample description that will show up on the Browse card. Make it short. If it's ommitted the summary will be used in it's place.
 levels:
 - intermediate
 skills:
