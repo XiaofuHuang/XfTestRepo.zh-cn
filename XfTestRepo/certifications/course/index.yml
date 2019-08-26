@@ -1,8 +1,8 @@
 ### YamlMime:Course
-title: Course zero
+title: 中文 Course zero
 metadata:
-  title: 'Course AZ-203T04-A: Implement Azure security'
-  description: 'Course AZ-203T04-A: Implement Azure security'
+  title: '中文 Course AZ-203T04-A: Implement Azure security'
+  description: '中文 Course AZ-203T04-A: Implement Azure security'
 uid: course.course-zero
 courseNumber: 'AZ-203T04-A'
 hoursToComplete: 18
@@ -20,7 +20,7 @@ roles:
 relatedExams:
 - uid: exam.az-203
 summary: |-
-  In this course students will gain the knowledge and skills needed to include Azure authentication and authorization services in their development solutions. Students will learn how identity is managed and utilized in Azure solutions by using the Microsoft identity platform. Students will also learn about access control (claims-based authorization and role-based access control) and how to implement secure data solutions. Throughout the course students learn how to create and integrate these resources by using the Azure CLI, REST, and application code.
+  中文 In this course students will gain the knowledge and skills needed to include Azure authentication and authorization services in their development solutions. Students will learn how identity is managed and utilized in Azure solutions by using the Microsoft identity platform. Students will also learn about access control (claims-based authorization and role-based access control) and how to implement secure data solutions. Throughout the course students learn how to create and integrate these resources by using the Azure CLI, REST, and application code.
 
   #### Audience profile
   - Students in this course are interested in Azure development or in passing the Microsoft Azure Developer Associate certification exam.
